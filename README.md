@@ -14,7 +14,7 @@ Building Fuel Efficient Cars
 # In the second part of the project, we will construct a linear regression model to accurately predict the MPG of vehicles based on their attributes. This model will serve as a crucial tool in understanding the relationship between various vehicle characteristics and fuel efficiency. We will discuss the significance of these attributes and how they can inform the design of sustainable, fuel-efficient cars that contribute to eco-friendly transportation.
 
 # Part 3 - Model Optimization:
-# To enhance the predictive performance of our model, we will implement at least one feature selection technique, as taught in class. This part will include a comparison between the optimized model and the baseline model from Part 2, highlighting the improvements achieved through the selection technique.
+# To enhance the predictive performance of our model, we will implement step-wise feature selection technique. This part will include a comparison between the optimized model and the baseline model from Part 2, highlighting the improvements achieved through the selection technique.
 
 # Part 4 - Achieving the Goals:
 # In the final phase, we will evaluate the model's ability to meet the specified goals. We will provide an explanation of whether the model can effectively predict MPG and contribute to the development of sustainable, environmentally-friendly vehicles. Additionally, we will identify and discuss the attributes, limited to no more than two, that have the most significant impact on achieving higher MPG, shedding light on which aspects should be prioritized during the automobile design process to promote sustainability.
